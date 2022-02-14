@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("yff");
+    printf("yff\n");
     return 0;
 }
